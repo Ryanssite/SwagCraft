@@ -1,2 +1,6 @@
 # SwagCraft
-Minecraft SwagCraft Texture pack, Doritos for all!
+==========================
+DO NOT USE AS OWN WORK
+==========================
+
+Run gameSetup.bat to start the game.
